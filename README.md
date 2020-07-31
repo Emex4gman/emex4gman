@@ -22,7 +22,5 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emex4gman&show_icons=true)  
 
-<!--
 ![Profile views](https://gpvc.arturio.dev/emex4gman)  
 
--->
