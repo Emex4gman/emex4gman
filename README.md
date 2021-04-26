@@ -1,18 +1,6 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hi there!, I am Chukwuemeka </h1>
 
-<br>
-<a href="https://twitter.com/emex4gman">
-  <img align="left" alt="Ibefx's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/chukwuemeka-ibebugwu-342797ba/">
-  <img align="left" alt="Ibefx's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-
-<a href="https://ibefx.netlify.app/">
-  <img align="left" alt="Ibefx's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
-</a>
-<br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/emex4gman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='18'>](https://www.instagram.com/ibebugwu_chukwuemeka/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/emex4gman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='18'>](https://codepen.io/emex4gman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='18'>](https://stackoverflow.com/users/11648546/chukwuemeka-ibebugwu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://ibefx.netlify.app/)  
 
 **Languages and Tools:**  
 
@@ -39,7 +27,7 @@
 -->
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='18'>](https://github.com/emex4gman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='18'>](https://www.instagram.com/ibebugwu_chukwuemeka/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='18'>](https://twitter.com/emex4gman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='18'>](https://codepen.io/emex4gman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='18'>](https://stackoverflow.com/users/11648546/chukwuemeka-ibebugwu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='18'>](https://ibefx.netlify.app/)  
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emex4gman&show_icons=true&theme=tokyonight&line_height=33))  
 
