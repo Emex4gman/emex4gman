@@ -18,6 +18,8 @@
 <code><img height="65" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="65" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"></code>
 <code><img height="65" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
+<code><img height="65" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"></code>
+
 
 ![](https://64.media.tumblr.com/38edea1b441b84c4529359673cbcd4fd/e8945c5ab83bebbc-6d/s2048x3072/70a1a22b39bfbe0d5bde5c02f29e1704e827d205.png)
 
