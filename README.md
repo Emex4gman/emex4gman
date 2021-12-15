@@ -1,7 +1,6 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hi there!, I am Chukwuemeka </h1>
 
 
-- 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on flutter and Javascript project
 - 💬 Ask me about anything
 
